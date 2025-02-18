@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+<--
 **Evgeny-Gladyshev/Evgeny-Gladyshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - Программирование промышленных микроконтроллеров и создание различных комплексов на их базе, таких как ЧПУ станки, промышленные роботы и решения вроде Умного дома.
