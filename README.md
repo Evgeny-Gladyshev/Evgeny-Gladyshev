@@ -24,13 +24,13 @@
 
 ### 🌐 **ИИ/ML**
 ```python
-OpenAI (GPTs, DALL-E, Whisper) | Claude 3 | Gemini | LLaMA | Grok3
-Hugging Face | YandexGPT | LangChain | ElevenLabs | Prompt Engineering
+| OpenAI (GPTs, DALL-E, Whisper) | Claude 3 | Gemini | LLaMA | Grok3 |
+| Hugging Face | YandexGPT | LangChain | ElevenLabs | Prompt Engineering |
 ```
 
 ### 💻 **Программирование и инфраструктура**
 ```python
-Python | Jupyter | Replit | GitHub | Make | Zapier | Voiceflow | Bootstrap | n8n 
+| Python | C++ | Jupyter | Replit | GitHub | Make | Zapier | Voiceflow | Bootstrap | n8n |
 ```
 
 ---
