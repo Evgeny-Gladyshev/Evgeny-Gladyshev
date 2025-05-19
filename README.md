@@ -24,7 +24,7 @@
 
 ### 🌐 **ИИ/ML**
 ```python
-| OpenAI (GPTs, DALL-E, Whisper) | Claude 3 | Gemini | LLaMA | Grok3 |
+| OpenAI (GPTs, DALL-E, Whisper) | Claude 3 | Gemini | LLaMA | Grok3 | DeepSeek |
 | Hugging Face | YandexGPT | LangChain | ElevenLabs | Prompt Engineering |
 ```
 
